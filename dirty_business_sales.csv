@@ -1,0 +1,309 @@
+Sale Date,Store ID,Product ID,Category ,Quantity,Unit Price,Discount,Customer Email,Revenue
+2023-04-13,S-001, sku-300, home appliances,,117.28,0.05,bob@Example.com ,"1,250.50"
+03/29/2023,S-001,SKU-500,Electronics,10 units,N/A, ,, $89 
+2023/02/07,S-001,SKU-100,Electronics,10 units,148.84,5%,bob@Example.com ,
+03/30/2023,S-005,SKU-500,Electronics,,N/A,5%,,"1,250.50"
+02/20/2023,S-005,SKU-400, home appliances,,147.51,0.1,diana.example.com,"1,250.50"
+21-Jan-2023,S-001,SKU-200 ,electronics ,,3.47,5%, charlie@example.com,678.13
+09-Jan-2023,S-002,SKU-200 ,Home Appliances,10 units,,5%,alice@example.com,"1,250.50"
+2023-02-04, s-004,SKU-100,Home Appliances,14,,5%, charlie@example.com,377.49
+23-Feb-2023,S-001,SKU-400,Groceries,10 units, $9.99 ,0.05,alice@example.com,931.28
+2023/01/14,S-001,SKU-500,Home Appliances,, $9.99 ,5%,eve@ex ample.com, $89 
+23-Mar-2023,S-005,SKU-200 ,Electronics,15,88.63,5%,alice@example.com,
+02/10/2023,S-003 ,SKU-100, home appliances,15, $9.99 ,0,alice@example.com, $89 
+2023/05/16,S-003 ,SKU-400,Home Appliances,, $9.99 ,0.1,bob@Example.com ,
+10-Feb-2023,S-003 ,SKU-200 ,Home Appliances,7,N/A,0,eve@ex ample.com,"1,250.50"
+2023-03-03,S-005,SKU-200 ,Groceries,,N/A,0.1,eve@ex ample.com,"1,250.50"
+04/11/2023,S-002,SKU-400,electronics , ,127.56,0.05, charlie@example.com,287.0
+04/13/2023,S-003 ,SKU-100, home appliances,,N/A,5%,alice@example.com,"1,250.50"
+06-Apr-2023, s-004, sku-300,Electronics,7,,5%,bob@Example.com ,"1,250.50"
+23-May-2023,S-002,SKU-400,electronics ,11,,0.1,eve@ex ample.com, $89 
+2023/03/07,S-002, sku-300, home appliances,10,45.4,,bob@Example.com , $89 
+13-Feb-2023,S-005,SKU-400,Groceries,10 units,,0,diana.example.com,
+09-May-2023,S-002,SKU-200 ,Groceries,13,N/A,0.1,diana.example.com,
+2023-02-20,S-001,SKU-100, home appliances,10 units, $9.99 ,,eve@ex ample.com, $89 
+04/23/2023, s-004,SKU-500,Electronics, ,N/A,0.05,diana.example.com,
+2023/04/23,S-005,SKU-400,Groceries,,N/A,5%, charlie@example.com,
+2023-05-09,S-001,SKU-500,Home Appliances, ,,0.05,eve@ex ample.com, $89 
+09-Mar-2023,S-001, sku-300,electronics ,10 units, $9.99 ,,bob@Example.com , $89 
+2023/04/08,S-001, sku-300,Groceries, ,,0,bob@Example.com ,"1,250.50"
+2023-03-11,S-003 ,SKU-500,Groceries,16,,0.1,bob@Example.com ,268.19
+05/27/2023,S-003 ,SKU-200 ,Groceries,10 units,,0.05,,"1,250.50"
+2023-02-11,S-005, sku-300,electronics ,,N/A,0,alice@example.com,
+2023-01-02,S-003 , sku-300, home appliances,10 units,144.86, ,alice@example.com,"1,250.50"
+01/09/2023,S-005,SKU-100,Electronics,,,0.1,eve@ex ample.com,1028.31
+2023/04/30,S-001,SKU-500, home appliances,10 units,127.86,5%,bob@Example.com , $89 
+2023/04/22,S-005,SKU-200 ,Home Appliances,3,,,,660.74
+2023/03/09,S-002,SKU-500, home appliances, ,,0.1,eve@ex ample.com,
+25-Apr-2023, s-004, sku-300,electronics , ,145.99,0.1,,"1,250.50"
+2023/01/27,S-001,SKU-200 , home appliances,2,,0,alice@example.com,
+17-Feb-2023,S-001,SKU-500,Groceries,10 units,5.11,0,bob@Example.com ,1193.49
+02/15/2023,S-001,SKU-100,Electronics,,112.54, ,bob@Example.com ,
+2023-04-05,S-001, sku-300,Electronics,10 units, $9.99 , ,,"1,250.50"
+03/08/2023,S-003 ,SKU-400, home appliances,18,N/A,0.05,,1116.37
+01/24/2023,S-005,SKU-500,electronics ,10 units, $9.99 ,0.05,bob@Example.com ,308.73
+2023/05/10, s-004,SKU-200 ,Electronics,10 units, $9.99 ,,alice@example.com,
+2023/01/26,S-003 ,SKU-400,electronics , ,130.26,5%,diana.example.com,
+2023-02-05,S-001,SKU-100,electronics ,10 units,,,eve@ex ample.com, $89 
+25-Apr-2023,S-001,SKU-200 , home appliances,10 units,,,bob@Example.com ,397.14
+2023/03/04,S-002,SKU-400, home appliances,10 units, $9.99 ,, charlie@example.com,
+2023/01/08,S-002,SKU-100,electronics ,10 units,,,, $89 
+2023-04-04,S-001,SKU-500,Electronics,,, ,alice@example.com,1163.6
+05/27/2023,S-002,SKU-400,electronics ,10 units,,0.05,diana.example.com,
+04/27/2023, s-004,SKU-100, home appliances,10 units,N/A,0.05,diana.example.com,191.94
+2023-04-06, s-004, sku-300,electronics ,16,99.54,0, charlie@example.com,"1,250.50"
+2023/03/10,S-005,SKU-400, home appliances,10 units, $9.99 , ,bob@Example.com ,
+10-Mar-2023,S-002,SKU-100,Groceries,15,N/A,5%,eve@ex ample.com, $89 
+2023-03-26,S-003 ,SKU-100,Electronics,10 units,N/A, ,,481.21
+2023/03/10,S-005,SKU-500, home appliances, ,N/A,0.05,alice@example.com, $89 
+2023-01-01,S-002,SKU-100,Groceries,5,,0.05,alice@example.com, $89 
+03/25/2023, s-004,SKU-100,Groceries, ,86.65,0,bob@Example.com ,"1,250.50"
+2023-04-11,S-005,SKU-100,electronics ,,,0.05,eve@ex ample.com,
+21-May-2023,S-003 ,SKU-200 ,Home Appliances,,57.52,0.1,bob@Example.com ,"1,250.50"
+22-Mar-2023, s-004,SKU-200 ,Home Appliances,8,N/A,,diana.example.com,
+15-May-2023,S-001,SKU-100,electronics , ,104.97,0.1,, $89 
+2023-01-21,S-001,SKU-500, home appliances, ,,0.1,, $89 
+05-Feb-2023,S-002, sku-300,Electronics,18,,,bob@Example.com , $89 
+23-Apr-2023,S-003 ,SKU-200 ,electronics ,,113.55,,,1083.55
+25-Mar-2023,S-005,SKU-500,Electronics,16, $9.99 ,0.1,eve@ex ample.com, $89 
+27-May-2023,S-001,SKU-200 ,Home Appliances,12,N/A,5%,alice@example.com,"1,250.50"
+2023-05-24,S-005,SKU-200 ,Home Appliances,,,0.1, charlie@example.com,
+05/24/2023,S-003 ,SKU-200 ,Home Appliances,7,N/A,,,
+2023/03/16,S-003 ,SKU-100,Electronics,,N/A,0.05,eve@ex ample.com,
+2023/01/07,S-003 ,SKU-100,Electronics,14,34.55,0.05, charlie@example.com,1070.82
+01/05/2023,S-003 ,SKU-200 ,electronics , ,, ,, $89 
+2023/05/25,S-005,SKU-100,Electronics,7,,,alice@example.com,"1,250.50"
+04/18/2023,S-005,SKU-100,Home Appliances,, $9.99 ,,,
+05/06/2023, s-004,SKU-200 ,Electronics,8, $9.99 ,0, charlie@example.com, $89 
+23-Apr-2023,S-001, sku-300, home appliances, ,N/A,5%,eve@ex ample.com,
+03/02/2023,S-001, sku-300,Groceries,15,7.95,0.1,diana.example.com, $89 
+05/27/2023,S-002,SKU-200 , home appliances,,N/A,0,diana.example.com,754.93
+2023-01-03,S-002, sku-300,electronics ,,,0.05,eve@ex ample.com, $89 
+04/12/2023,S-003 ,SKU-200 ,Electronics,10 units,,0.05,diana.example.com,229.8
+2023-05-16, s-004,SKU-200 , home appliances,10 units,13.04,5%,diana.example.com,1183.52
+25-May-2023,S-003 ,SKU-200 , home appliances,9,62.56,5%,alice@example.com,
+02/15/2023, s-004, sku-300,Home Appliances,3, $9.99 , ,alice@example.com,738.03
+10-Jan-2023,S-003 ,SKU-500,electronics ,, $9.99 ,0,eve@ex ample.com,934.23
+11-Jan-2023,S-001,SKU-100,Home Appliances,17,10.93,0.1,bob@Example.com ,
+24-Feb-2023,S-001,SKU-100,Groceries,10 units, $9.99 , ,diana.example.com,
+23-Jan-2023,S-003 ,SKU-400,Groceries,5,N/A,0.1,,300.58
+2023-04-20, s-004,SKU-500, home appliances,,,, charlie@example.com, $89 
+2023-02-01, s-004,SKU-100,Groceries,10 units, $9.99 ,0.05,,600.31
+04/28/2023,S-003 ,SKU-400,Electronics,,47.2,,eve@ex ample.com,1161.73
+26-Feb-2023,S-005, sku-300,Electronics,10 units, $9.99 , ,eve@ex ample.com,746.27
+16-Mar-2023,S-005, sku-300,electronics ,,,0.05, charlie@example.com,423.95
+2023/03/23,S-003 ,SKU-500, home appliances,,N/A,5%,bob@Example.com ,
+2023/03/20, s-004,SKU-200 ,Groceries,,105.1,5%,,
+15-Mar-2023, s-004,SKU-500,Electronics,10 units,11.34,0.05, charlie@example.com,746.86
+06-May-2023,S-002,SKU-400,Groceries,, $9.99 ,0,, $89 
+05-Apr-2023, s-004,SKU-400,electronics , ,,5%,eve@ex ample.com,"1,250.50"
+04/06/2023,S-005,SKU-400, home appliances,,N/A, ,eve@ex ample.com,"1,250.50"
+2023-01-21,S-003 ,SKU-500,Groceries, ,42.87,, charlie@example.com,
+2023-05-13,S-002, sku-300, home appliances,10 units,N/A,0,bob@Example.com ,
+03/14/2023,S-001,SKU-100, home appliances,15,,,diana.example.com, $89 
+2023-03-02, s-004,SKU-400,Groceries, ,,0,bob@Example.com , $89 
+2023/02/16, s-004,SKU-400, home appliances, ,N/A,0.05,bob@Example.com ,898.23
+2023-02-25,S-001,SKU-400, home appliances,, $9.99 ,,bob@Example.com , $89 
+2023/01/18,S-001,SKU-500, home appliances,,,0,alice@example.com, $89 
+2023/02/08,S-002,SKU-400,Groceries,,N/A,5%,,
+25-Jan-2023, s-004,SKU-500,Groceries, ,118.69,0.05,diana.example.com,"1,250.50"
+2023/02/03,S-002,SKU-400,electronics ,10 units,,0.1, charlie@example.com,
+01/06/2023,S-003 ,SKU-500,electronics ,,54.38,,eve@ex ample.com,
+05/30/2023,S-003 ,SKU-400,Electronics, ,,,eve@ex ample.com,227.95
+04-Apr-2023,S-002, sku-300,Home Appliances,, $9.99 , , charlie@example.com,"1,250.50"
+2023-01-06,S-002,SKU-200 , home appliances,10 units,,,diana.example.com,1170.21
+03/03/2023,S-002,SKU-100,electronics ,,N/A,0.1,diana.example.com,
+11-Mar-2023,S-005,SKU-400,electronics ,,,0,alice@example.com,
+03/31/2023, s-004,SKU-400,Groceries,10 units,N/A,0.1,eve@ex ample.com,
+2023-01-03,S-005,SKU-400,electronics , ,N/A, ,alice@example.com, $89 
+10-May-2023,S-003 ,SKU-400,electronics ,10 units,121.77, ,,
+05/23/2023, s-004,SKU-200 ,Home Appliances,, $9.99 ,0,diana.example.com, $89 
+2023/03/19,S-001,SKU-400,Home Appliances,11, $9.99 ,0.1,eve@ex ample.com, $89 
+2023/05/30,S-002,SKU-400, home appliances,,N/A,5%,,
+2023-01-05, s-004,SKU-500,Groceries,,N/A,5%,eve@ex ample.com,382.85
+2023-03-30,S-001,SKU-400, home appliances,10 units,,,diana.example.com,
+04/07/2023,S-001, sku-300,electronics ,15,35.98,0.05, charlie@example.com, $89 
+04/14/2023, s-004, sku-300,Home Appliances,,N/A,0.1,diana.example.com, $89 
+11-Feb-2023, s-004, sku-300,Electronics,,,,diana.example.com, $89 
+2023-02-07,S-005,SKU-100,Home Appliances,1, $9.99 ,0,bob@Example.com ,45.07
+2023-03-07,S-001,SKU-100, home appliances,10,131.7,,bob@Example.com ,"1,250.50"
+2023-02-16,S-005,SKU-200 , home appliances,4,, ,bob@Example.com ,
+2023/02/16,S-001,SKU-500, home appliances,10 units, $9.99 ,0.1,diana.example.com, $89 
+26-Jan-2023,S-003 ,SKU-200 ,Groceries,, $9.99 ,,,1090.6
+2023-05-14,S-002, sku-300,Electronics,,N/A,0.1,,
+2023-04-14,S-003 ,SKU-500,electronics ,18,,5%,diana.example.com, $89 
+04/10/2023,S-001,SKU-500, home appliances,10 units,118.83,0.05,alice@example.com,"1,250.50"
+02-May-2023,S-005,SKU-100,Groceries, ,N/A,0,alice@example.com,"1,250.50"
+01-Jan-2023,S-005,SKU-400,Home Appliances,14,N/A,5%,alice@example.com,
+01-Jan-2023,S-001,SKU-400,electronics ,10 units, $9.99 ,0,alice@example.com,894.38
+2023/02/26,S-003 ,SKU-400, home appliances,,60.63,0.05,diana.example.com,1104.23
+05/15/2023,S-005, sku-300,Groceries,,111.02,0.1,,"1,250.50"
+2023/01/25, s-004,SKU-400,Groceries,10 units,,0, charlie@example.com,"1,250.50"
+30-May-2023,S-002,SKU-100,Home Appliances,18,78.0,5%,diana.example.com, $89 
+04/28/2023, s-004,SKU-500,Groceries,8,, ,eve@ex ample.com,"1,250.50"
+2023/05/03,S-003 ,SKU-100,electronics , ,31.96,0, charlie@example.com,48.68
+05/24/2023, s-004,SKU-200 ,Home Appliances,,N/A,0.1, charlie@example.com,546.68
+23-Apr-2023,S-003 ,SKU-500,Home Appliances, , $9.99 ,5%,,
+2023-02-24,S-005,SKU-200 ,Electronics,,N/A,0.1,bob@Example.com , $89 
+2023/03/28, s-004,SKU-500, home appliances,,99.35,0,eve@ex ample.com, $89 
+2023/03/13, s-004,SKU-400,Electronics,15,28.01,5%,alice@example.com,289.63
+04-Feb-2023,S-002,SKU-400, home appliances,10 units, $9.99 ,5%, charlie@example.com,1133.57
+22-May-2023, s-004,SKU-500,Groceries, , $9.99 ,0, charlie@example.com,"1,250.50"
+2023/04/22,S-005, sku-300,Home Appliances,10 units,N/A,0.05,eve@ex ample.com,
+2023/05/28,S-003 , sku-300,Home Appliances, , $9.99 ,5%,bob@Example.com ,
+2023-05-17,S-002, sku-300,Electronics,2,,0.05,eve@ex ample.com, $89 
+03/22/2023,S-002,SKU-200 ,electronics , ,N/A,0, charlie@example.com,
+14-Jan-2023,S-001,SKU-200 ,Home Appliances,10 units,105.28,0,bob@Example.com ,"1,250.50"
+04-Jan-2023,S-002, sku-300,Electronics, , $9.99 ,,eve@ex ample.com,
+02/11/2023,S-003 ,SKU-100,Electronics,4,42.2, ,,783.45
+17-Mar-2023,S-002,SKU-400,Electronics, ,21.83,,alice@example.com,879.96
+12-Jan-2023, s-004,SKU-400,electronics ,13,N/A, , charlie@example.com,
+05/02/2023,S-001, sku-300,electronics ,10 units,N/A,0.1,alice@example.com,
+2023-02-05, s-004,SKU-400,Electronics, , $9.99 ,0.1,,
+2023-02-08,S-002,SKU-200 ,Groceries,, $9.99 ,, charlie@example.com, $89 
+2023-02-02,S-002,SKU-100,Groceries,, $9.99 ,5%,diana.example.com,66.45
+04/19/2023,S-005,SKU-400,electronics , ,N/A, ,diana.example.com, $89 
+17-Jan-2023,S-005,SKU-400,Home Appliances,1,,0.05,,"1,250.50"
+2023-05-11,S-005,SKU-100, home appliances,18, $9.99 ,,eve@ex ample.com, $89 
+01/19/2023,S-003 ,SKU-100, home appliances,10 units,121.4, ,bob@Example.com ,
+02/24/2023,S-005,SKU-100, home appliances,,,0.1,alice@example.com,
+2023/03/22, s-004,SKU-500,electronics , ,,0, charlie@example.com, $89 
+2023-05-23,S-002, sku-300,Home Appliances,9,,0.05,eve@ex ample.com,
+2023/01/26,S-001,SKU-200 ,Home Appliances, , $9.99 ,0,eve@ex ample.com, $89 
+02/28/2023, s-004,SKU-100,Groceries,, $9.99 ,0.1,bob@Example.com ,386.33
+04/13/2023,S-003 ,SKU-200 ,Electronics, , $9.99 ,5%,alice@example.com,149.08
+05/11/2023,S-003 ,SKU-500,Groceries,, $9.99 ,5%, charlie@example.com, $89 
+2023/01/04,S-001,SKU-400,Home Appliances, ,78.74,0.05,eve@ex ample.com,1052.62
+2023/02/24,S-003 ,SKU-500,Groceries, , $9.99 , ,diana.example.com, $89 
+2023/04/06,S-001,SKU-500,Electronics,,, ,diana.example.com,
+03-Mar-2023,S-005, sku-300,Electronics,12,,0,alice@example.com,
+04/13/2023,S-005,SKU-500,Electronics,5, $9.99 , ,eve@ex ample.com,428.77
+09-Mar-2023,S-005,SKU-100, home appliances, ,,0,diana.example.com,"1,250.50"
+2023/03/14,S-003 ,SKU-200 ,Groceries,15,,5%,diana.example.com,
+2023/03/02,S-001,SKU-400,Home Appliances,, $9.99 ,,diana.example.com,722.95
+18-Mar-2023,S-003 ,SKU-100, home appliances,2,,0.1, charlie@example.com,
+2023/03/04, s-004, sku-300,electronics ,19, $9.99 ,0.05,,
+2023-01-03, s-004,SKU-100,Home Appliances,6, $9.99 ,0, charlie@example.com, $89 
+02-May-2023,S-001,SKU-400,Groceries,17, $9.99 ,0.05,alice@example.com,
+2023/01/03, s-004,SKU-100, home appliances, ,94.01,0,,713.56
+11-Apr-2023,S-005,SKU-400,electronics ,, $9.99 ,0.1,alice@example.com,
+03/17/2023,S-003 ,SKU-500, home appliances,10,50.36, , charlie@example.com,883.58
+2023/05/04, s-004,SKU-100,Electronics, ,40.07,0.05,eve@ex ample.com,
+03/01/2023,S-002, sku-300,Groceries,16,134.33,0,alice@example.com,
+2023/03/03,S-001,SKU-200 ,Electronics, ,,0.05,diana.example.com,
+2023-02-02,S-002,SKU-400,Home Appliances,10 units,,5%,,"1,250.50"
+17-Feb-2023, s-004,SKU-400,electronics ,9,125.8, ,bob@Example.com ,"1,250.50"
+2023/01/07,S-005,SKU-200 ,electronics ,,144.26,0.1,bob@Example.com ,1055.49
+05/18/2023,S-001, sku-300,electronics ,11, $9.99 ,0.05, charlie@example.com,982.47
+18-Mar-2023,S-001, sku-300,Home Appliances,,30.18,,,
+2023/01/17,S-002,SKU-400,Groceries,,, ,diana.example.com,936.92
+15-Mar-2023,S-003 ,SKU-500,Groceries,10 units,,5%,diana.example.com,
+2023/01/22,S-003 ,SKU-200 , home appliances,10 units,N/A,5%,,
+2023/01/12,S-002,SKU-400,Electronics, ,N/A,0.05, charlie@example.com,94.26
+2023/02/19, s-004,SKU-400, home appliances,10 units,,5%,diana.example.com, $89 
+2023-05-05,S-002,SKU-500,Groceries,,11.25,, charlie@example.com, $89 
+2023-02-27, s-004,SKU-100,Groceries, ,,0,diana.example.com,
+2023-02-08,S-002,SKU-400, home appliances,, $9.99 ,5%,alice@example.com,"1,250.50"
+2023/03/25,S-003 , sku-300,Groceries,,N/A,5%,eve@ex ample.com,
+2023/01/21,S-001, sku-300,Groceries,10 units,,,diana.example.com,
+11-May-2023, s-004,SKU-500,Electronics, , $9.99 ,0.05,, $89 
+2023-01-25,S-002, sku-300, home appliances, ,,0.1,eve@ex ample.com,1161.99
+2023-05-25, s-004,SKU-100,Electronics,,N/A,5%,diana.example.com,
+01/24/2023,S-003 ,SKU-100,Electronics,10 units,119.79,, charlie@example.com,
+2023-05-06,S-003 , sku-300,Home Appliances,10 units,N/A,0,diana.example.com,197.19
+04/27/2023,S-002,SKU-500,electronics ,10 units,, ,,
+01/18/2023,S-002,SKU-200 ,Electronics, ,N/A,0.1,,
+2023/04/12,S-005,SKU-200 ,electronics ,10 units, $9.99 ,0,,
+02/15/2023,S-002,SKU-400,Home Appliances,10 units,,5%,diana.example.com, $89 
+07-Apr-2023,S-001,SKU-400,Home Appliances,2,14.55,,eve@ex ample.com, $89 
+05/30/2023,S-001,SKU-400,Home Appliances, ,N/A,,,"1,250.50"
+16-Apr-2023, s-004, sku-300,electronics ,12,142.81,0.1, charlie@example.com,
+01/06/2023, s-004,SKU-400,Electronics,,92.52,0.05,bob@Example.com , $89 
+2023/04/02,S-005, sku-300,Groceries,, $9.99 ,5%, charlie@example.com,665.84
+27-Feb-2023,S-001,SKU-400,Home Appliances,,N/A,,alice@example.com,102.55
+2023-01-12,S-005,SKU-400,Home Appliances,12, $9.99 ,0.05,bob@Example.com ,398.18
+10-Apr-2023,S-002,SKU-200 ,Groceries,10 units,130.97,0.1, charlie@example.com,198.2
+05/26/2023,S-001,SKU-100,Home Appliances, ,,0,diana.example.com, $89 
+2023-02-04,S-005, sku-300, home appliances,15,126.31,,alice@example.com,1153.13
+24-Jan-2023,S-003 ,SKU-400, home appliances,10 units,N/A,5%,bob@Example.com ,608.29
+04/06/2023,S-005, sku-300,Groceries,10 units,N/A,5%,,1048.74
+06-Jan-2023,S-002, sku-300,electronics , ,N/A,, charlie@example.com,"1,250.50"
+18-Jan-2023,S-001,SKU-400,Electronics,8, $9.99 ,0.05,bob@Example.com , $89 
+03/28/2023, s-004,SKU-500,Home Appliances,10 units,N/A, ,alice@example.com,
+2023/02/10,S-001, sku-300,Groceries, ,77.95,5%,alice@example.com,713.58
+2023/05/25,S-003 , sku-300,Groceries,, $9.99 ,0,diana.example.com, $89 
+14-Feb-2023,S-001,SKU-200 ,electronics ,, $9.99 ,,alice@example.com,207.86
+03-Apr-2023,S-005,SKU-200 ,Electronics,10 units,124.59, ,eve@ex ample.com,"1,250.50"
+2023/01/01,S-003 ,SKU-400,Electronics,11,, ,bob@Example.com , $89 
+2023-02-13,S-001, sku-300,electronics ,, $9.99 , ,alice@example.com,45.85
+2023-05-10,S-002,SKU-500, home appliances,,N/A, ,diana.example.com,"1,250.50"
+2023/02/28,S-003 ,SKU-500,electronics ,5,N/A,5%,,
+02/12/2023, s-004,SKU-100,electronics ,2,96.41,0.1,, $89 
+2023/02/07,S-003 ,SKU-100,Home Appliances,10 units,N/A,5%,bob@Example.com ,809.75
+2023/03/26, s-004,SKU-200 ,Home Appliances,,,,alice@example.com,1042.43
+03-Feb-2023,S-005, sku-300,Electronics,, $9.99 ,0.05,diana.example.com,25.93
+25-May-2023,S-002,SKU-100,electronics ,,,0.1,alice@example.com,1117.48
+02/02/2023,S-005,SKU-100,Electronics,,N/A, , charlie@example.com,
+03/31/2023,S-002,SKU-500, home appliances, , $9.99 ,0,alice@example.com,
+01/13/2023,S-005,SKU-200 , home appliances,9,85.7,0.1, charlie@example.com,
+04/12/2023,S-005,SKU-100,Home Appliances,10 units,N/A,0.05,bob@Example.com ,
+01/23/2023,S-005, sku-300, home appliances,19,,,alice@example.com,
+2023-05-23,S-002,SKU-100,Home Appliances,10 units, $9.99 , ,bob@Example.com ,
+18-Feb-2023,S-001,SKU-200 ,Home Appliances,,N/A,0.1,alice@example.com,726.12
+03/15/2023, s-004,SKU-500,Electronics, ,75.82,0.05,eve@ex ample.com,1142.02
+2023-04-27, s-004,SKU-400,Home Appliances,12,60.73,5%,,"1,250.50"
+2023-03-28, s-004,SKU-500, home appliances, , $9.99 ,0.1,,"1,250.50"
+2023-04-17,S-005, sku-300,electronics ,, $9.99 ,0,eve@ex ample.com,"1,250.50"
+2023-01-15,S-001,SKU-400,electronics ,4, $9.99 ,0.05,diana.example.com, $89 
+2023-04-27, s-004,SKU-400,Electronics,,,0.1,alice@example.com,699.21
+26-May-2023,S-005,SKU-200 ,Electronics,2,N/A,0,bob@Example.com ,"1,250.50"
+05-Apr-2023,S-005,SKU-500,Groceries, , $9.99 ,0,eve@ex ample.com,682.94
+05-Feb-2023, s-004,SKU-500,Groceries, ,121.19,5%, charlie@example.com,56.88
+2023/02/16,S-005,SKU-500,electronics ,,96.24,,alice@example.com,714.28
+2023-01-09,S-005,SKU-200 ,electronics , ,27.45, ,diana.example.com, $89 
+02/18/2023, s-004, sku-300,electronics ,10 units, $9.99 ,5%,diana.example.com,511.37
+2023/03/30,S-001, sku-300,electronics ,,94.14,0.05, charlie@example.com,
+18-Apr-2023,S-003 ,SKU-200 ,electronics ,2,33.69,,alice@example.com,"1,250.50"
+2023-01-11,S-001,SKU-100,electronics ,10,59.55,0,alice@example.com,598.64
+05-Mar-2023,S-002,SKU-500,Electronics,, $9.99 ,0.05,,"1,250.50"
+24-Jan-2023,S-001,SKU-400,Home Appliances,,N/A,0.05,eve@ex ample.com,
+2023/02/05,S-001, sku-300,Groceries,8, $9.99 ,0, charlie@example.com,"1,250.50"
+11-Mar-2023,S-001,SKU-500,Groceries,,11.81,5%,bob@Example.com ,
+01/27/2023, s-004,SKU-200 ,Electronics, , $9.99 ,, charlie@example.com,280.84
+03-Jan-2023,S-001, sku-300,Groceries, ,N/A,,bob@Example.com ,671.55
+2023/01/30,S-005,SKU-500,Groceries, ,, ,eve@ex ample.com,"1,250.50"
+2023-02-16,S-005, sku-300,Electronics, ,15.86,5%,bob@Example.com , $89 
+16-May-2023,S-003 , sku-300,Home Appliances,10 units, $9.99 ,5%,alice@example.com,1169.13
+01/05/2023,S-002,SKU-500,electronics ,10 units,81.68,,alice@example.com,627.54
+05/30/2023,S-001,SKU-100,Groceries,10 units,113.66, ,bob@Example.com ,992.15
+2023/05/22, s-004,SKU-400,Home Appliances,4,35.26,0.05,bob@Example.com ,460.19
+16-Mar-2023,S-003 , sku-300,Groceries,10 units,N/A,5%,,1048.64
+2023-05-30,S-001,SKU-200 , home appliances,,148.84,5%,,"1,250.50"
+2023-02-18,S-001, sku-300,electronics , , $9.99 ,,eve@ex ample.com,1054.18
+2023/05/14, s-004,SKU-500,electronics ,10 units,N/A,0,diana.example.com,"1,250.50"
+07-Mar-2023,S-002,SKU-500,Electronics,,,0.05, charlie@example.com,
+2023/01/25,S-001, sku-300,Groceries,10 units,91.55,,diana.example.com,1078.42
+05-May-2023,S-001,SKU-200 ,electronics ,,60.7, ,, $89 
+2023-05-29,S-001,SKU-200 ,Home Appliances,10 units,, ,bob@Example.com , $89 
+05/08/2023,S-003 , sku-300,Home Appliances,,N/A, ,alice@example.com,131.27
+2023-04-03, s-004,SKU-400, home appliances, , $9.99 ,0.1,bob@Example.com ,
+2023/01/10,S-005,SKU-200 ,Groceries, ,149.24,0,,
+09-Apr-2023,S-001,SKU-400,Electronics,10 units, $9.99 ,5%,diana.example.com, $89 
+2023-04-13, s-004,SKU-100,Home Appliances,8,,5%,, $89 
+2023/05/04,S-005,SKU-400,electronics ,,109.06,5%, charlie@example.com, $89 
+2023-01-07, s-004,SKU-100,Home Appliances,,N/A, ,bob@Example.com ,18.18
+2023/03/03,S-003 ,SKU-100,electronics ,, $9.99 ,0.05,alice@example.com,
+03/06/2023, s-004,SKU-500,electronics ,13,125.39, ,,
+2023-05-19, s-004, sku-300,Home Appliances, ,,0.05,bob@Example.com ,
+11-Feb-2023,S-002,SKU-100,Groceries,10,,0,eve@ex ample.com,
+2023-05-09,S-005,SKU-500, home appliances,10 units,12.85,0.05, charlie@example.com, $89 
+21-Jan-2023,S-002,SKU-200 ,Electronics,, $9.99 ,,bob@Example.com ,"1,250.50"
+25-May-2023,S-002,SKU-200 ,Groceries,,,0,bob@Example.com , $89 
+2023-04-13,S-001, sku-300, home appliances,,117.28,0.05,bob@Example.com ,"1,250.50"
+03/29/2023,S-001,SKU-500,Electronics,10 units,N/A, ,, $89 
+2023/02/07,S-001,SKU-100,Electronics,10 units,148.84,5%,bob@Example.com ,
+03/30/2023,S-005,SKU-500,Electronics,,N/A,5%,,"1,250.50"
+02/20/2023,S-005,SKU-400, home appliances,,147.51,0.1,diana.example.com,"1,250.50"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
